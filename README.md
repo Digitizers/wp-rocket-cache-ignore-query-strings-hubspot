@@ -1,0 +1,1 @@
+# wp-rocket-cache-ignore-query-strings-hubspot
