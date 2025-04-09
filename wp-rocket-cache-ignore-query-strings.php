@@ -43,6 +43,11 @@ function define_ignored_parameters( array $params ) {
 	$params['__hsfp'] = 15;
 	$params['_hsmi'] = 16;
 	$params['_hsenc'] = 17;
+	$params['hsutk'] = 18;
+	$params['hsCtaTracking'] = 19;
+	$params['submissionGuid'] = 20;
+	$params['hsa_la'] = 21;
+	$params['hsa_ol'] = 22;
 	return $params;
 }
 // Filter rocket_cache_ignored_parameters parameters
